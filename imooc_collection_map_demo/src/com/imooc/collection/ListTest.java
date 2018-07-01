@@ -84,7 +84,7 @@ public class ListTest {
 		}
 	}
 	/**
-	 * 修改List中的元素
+	 * 修改List中的元素(set方法）
 	 * @param args
 	 */
 	public void testModify() {
